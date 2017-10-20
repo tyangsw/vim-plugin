@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/tony/.vimpkg'
+let g:netrw_dirhist_2='/Users/tony/vim-plugins'
+let g:netrw_dirhist_3='/Users/tony/.vim/syntax'
+let g:netrw_dirhist_4='/Users/tony/.vim'
+let g:netrw_dirhist_5='/Users/tony/.vim/ftplugin'
